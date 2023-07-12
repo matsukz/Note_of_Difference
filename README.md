@@ -253,7 +253,7 @@ public class App {
 |------|---|---|---|
 |Python|%|**|//|
 |VB|Mod|^|\ or Int(x/y)|
-|VBA|Mod|^|\|
+|VBA|Mod|^|\
 |C#|%|Math.Pow(x,y)|x/y|
 |Java|%|Math.pow(x,y)|x/y|
 
